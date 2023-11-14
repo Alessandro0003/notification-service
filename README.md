@@ -4,10 +4,13 @@
 
 ## Future Implementations
 
-[] - Docker Compose
-[] - Field Validation
-[] - Metodos Request - PUT, DELETE
-[] - in-aplication testing
+[ ] - Docker Compose
+
+[ ] - Field Validation
+
+[ ] - Metodos Request - PUT, DELETE
+
+[ ] - in-aplication testing
 
 ## Description
 
