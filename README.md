@@ -8,7 +8,7 @@
 
 [ ] - Field Validation
 
-[ ] - Metodos Request - PUT, DELETE
+[ ] - Method Request - PUT, DELETE
 
 [ ] - in-aplication testing
 
