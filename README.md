@@ -8,11 +8,7 @@
 
 [X] - Field Validation
 
-<<<<<<< HEAD
 [X] - Method Requests - POST, GET, PATCH
-=======
-[ ] - Method Request - PUT, DELETE
->>>>>>> 928ba230f49629b6929c9d264e5d723f3f13f168
 
 [X] - in-aplication testing
 
