@@ -1,0 +1,1 @@
+export type Repalce<T, R> = Omit<T, keyof R> & R;

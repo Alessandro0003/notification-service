@@ -6,11 +6,11 @@
 
 [ ] - Docker Compose
 
-[ ] - Field Validation
+[X] - Field Validation
 
-[ ] - Metodos Request - PUT, DELETE
+[X] - Method Requests - POST, GET, PATCH
 
-[ ] - in-aplication testing
+[X] - in-aplication testing
 
 ## Description
 

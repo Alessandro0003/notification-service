@@ -13,3 +13,4 @@ export class CreatenNotificationBody {
     @IsNotEmpty()
     category: string;
 }
+
