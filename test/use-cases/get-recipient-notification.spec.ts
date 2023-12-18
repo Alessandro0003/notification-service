@@ -1,6 +1,6 @@
 import { Content } from '@application/entities/content';
-import { InMemoryNotificationsRepository } from '../repositories/in-memory-notifications-repository';
-import { makeNotification } from '@test/factories/notificaton-factory';
+import { InMemoryNotificationsRepository } from '../../src/in-memory-notification/repositories/in-memory-notifications-repository';
+import { makeNotification } from '../../src/in-memory-notification/factories/notificaton-factory';
 import { GetRecipientNotification } from '../../src/application/use-cases/get-recipient-notification';
 
 describe('Get recipients notifications', () => {

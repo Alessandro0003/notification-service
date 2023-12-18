@@ -1,6 +1,6 @@
-import { InMemoryNotificationsRepository } from '../repositories/in-memory-notifications-repository';
+import { InMemoryNotificationsRepository } from '../../src/in-memory-notification/repositories/in-memory-notifications-repository';
 import { NotificationNotFound } from '../../src/application/use-cases/errors/notification-not-found';
-import { makeNotification } from '@test/factories/notificaton-factory';
+import { makeNotification } from '../../src/in-memory-notification/factories/notificaton-factory';
 import { UnreadNotificaitons } from '../../src/application/use-cases/unread-notification';
 
 describe('Unread notification', () => {

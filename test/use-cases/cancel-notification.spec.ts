@@ -1,9 +1,9 @@
 import { Notification } from '../../src/application/entities/notification';
-import { InMemoryNotificationsRepository } from '../repositories/in-memory-notifications-repository';
+import { InMemoryNotificationsRepository } from '../../src/in-memory-notification/repositories/in-memory-notifications-repository';
 import { CancelNotificaiton } from '../../src/application/use-cases/cancel-notification';
 import { Content } from '@application/entities/content';
 import { NotificationNotFound } from '../../src/application/use-cases/errors/notification-not-found';
-import { makeNotification } from '@test/factories/notificaton-factory';
+import { makeNotification } from '../../src/in-memory-notification/factories/notificaton-factory';
 
 describe('Cancel notification', () => {
   it('should be able to send a notification', async () => {
